@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34736" started-at="2017-01-23T13:39:21Z" finished-at="2017-01-23T13:39:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34736" started-at="2017-01-23T13:39:21Z" finished-at="2017-01-23T13:39:56Z">
+      <class name="testScripts.LoginTest">
+        <test-method status="PASS" signature="configBeformtd()[pri:0, instance:testScripts.LoginTest@49e4cb85]" name="configBeformtd" is-config="true" duration-ms="18863" started-at="2017-01-23T19:09:21Z" finished-at="2017-01-23T19:09:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeformtd -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:testScripts.LoginTest@49e4cb85]" name="verifyLogin" duration-ms="11347" started-at="2017-01-23T19:09:40Z" finished-at="2017-01-23T19:09:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="configAftermtd()[pri:0, instance:testScripts.LoginTest@49e4cb85]" name="configAftermtd" is-config="true" duration-ms="4298" started-at="2017-01-23T19:09:52Z" finished-at="2017-01-23T19:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAftermtd -->
+      </class> <!-- testScripts.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
